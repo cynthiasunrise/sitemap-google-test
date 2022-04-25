@@ -1,0 +1,3 @@
+https://sitemap-google-seo.netlify.app/
+https://sitemap-google-seo.netlify.app/login
+https://sitemap-google-seo.netlify.app/shop
